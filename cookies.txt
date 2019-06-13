@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.hastebin.com	TRUE	/	FALSE	1999999999	__cfduid	d43111a208d3d94a568452b3983df6fb61560384866
+
